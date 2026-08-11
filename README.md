@@ -32,6 +32,16 @@
 
 <br>
 <br>
+
+ <p align="center">
+<sub>interactions are welcome <> whisper if I don't respond</sub>
+   <br>
+   <sub>tell me something cool</sub>
+   <br>
+   <sub>strawpage and atabook in the works</sub>
+  </p>
+
+
 <br>
 <br>
 

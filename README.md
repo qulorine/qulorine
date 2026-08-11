@@ -1,5 +1,11 @@
-<small>viridia</small>
+<p align="center">
+<i><small>viridia</small></i>
+  </p>
+  
 #
+
+<br>
+<br>
 
 <p align="center">
 <sub>click image for creds</sub>

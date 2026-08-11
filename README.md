@@ -1,11 +1,10 @@
   <p align="center">
 <i><small>qulorine</small></i>
   </p>
+  
+#
 
-  <p align="center">
-<img width="601" height="21" alt="11" src="https://github.com/user-attachments/assets/123883da-0199-4e3f-bcf7-a86a2addb453" />
 
- </p>
 
 
 <br>
@@ -29,5 +28,9 @@
 
 <br>
 <br>
+<br>
+<br>
 
-
+  <p align="center">
+<img width="601" height="21" alt="11" src="https://github.com/user-attachments/assets/123883da-0199-4e3f-bcf7-a86a2addb453" />
+ </p>

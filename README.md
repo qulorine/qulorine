@@ -34,7 +34,7 @@
 <br>
 
  <p align="center">
-<sub>interactions are welcome <> whisper if I don't respond</sub>
+<small>interactions are welcome <> whisper if I don't respond</small>
    <br>
    <sub>tell me something cool</sub>
    <br>

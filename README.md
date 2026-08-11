@@ -2,13 +2,15 @@
 <i><small>qulorine</small></i>
   </p>
   
+
+  <p align="center">
+<sub>2002</sub>
+  </p>
+
 #
 
 
 
-
-<br>
-<br>
 
 <p align="center">
 <img width="150" height="20" alt="glow" src="https://github.com/user-attachments/assets/d8f5dc1c-b27e-4090-9033-5576dfc01992" />
@@ -25,10 +27,16 @@
 
 
 
+
+
+
 <br>
 <br>
 <br>
 <br>
+
+
+
 
  <p align="center">
 <img width="99" height="56" alt="xbox" src="https://github.com/user-attachments/assets/d18a358a-0db3-4495-b145-606f6dcc4e0c" />

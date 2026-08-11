@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/p/DVwLqbpDV6d/">
     <img src="chrysedit.jpg" alt="chrysalsis fanart" width="400">
   </a><br>
-  <sub>click image for creds</sub>
+  <sub><b>click image for creds</b></sub>
 </p>
 
 
@@ -53,10 +53,9 @@
 
 
  <p align="center">
-<img width="99" height="56" alt="xbox" src="https://github.com/user-attachments/assets/d18a358a-0db3-4495-b145-606f6dcc4e0c" />
+<img width="99" height="56" alt="tumblr_fe39eecd72a92e3047d90cc28bcda1ee_bdea9c92_100" src="https://github.com/user-attachments/assets/6db0a705-d524-4b96-8ec8-d37443eb021c" />
 <img width="99" height="57" alt="greencomputerscreen" src="https://github.com/user-attachments/assets/1e38cded-b347-44cf-8095-a17aea9b971e" />
 <img width="99" height="57" alt="tvv" src="https://github.com/user-attachments/assets/86a82be7-cf0a-4427-be32-e20e019b2c6e" />
-
  </p>
 
   <p align="center">

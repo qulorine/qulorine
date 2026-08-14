@@ -30,7 +30,7 @@
 <p align="center">
 <small><i>$${\color{#007278}\text{interactions are welcome <> whisper if I don't respond}}$$</i></small>
 <br>
-<sub>$${\color{#007278}\text{tell me something cool}}$$</sub>
+<sub>$${\color{#007278}\text{give me song recs}}$$</sub>
 <br>
 <sub>$${\color{#007278}\text{strawpage and atabook in the works}}$$</sub>
 </p>
